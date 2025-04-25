@@ -1,0 +1,18 @@
+th{
+    font-weight: 700;
+    font-family: helvetica, sans-serif;
+    background-color: crimson;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: crimson;
+    margin-left: auto;
+    margin-right: auto;
+    text-align-last: center;
+}
